@@ -61,8 +61,8 @@ Check if you're registered in the program by visiting [here](https://bit.ly/gcaf
 ## Redeem Your Subscription
 
 After receiving your confirmation email, follow the steps in this [video](https://youtu.be/Fi60og5ESaU) to redeem your two-month pass.<br>
-Or check the video down below - <br>
-![Redeem Subscription Video](https://github-production-user-asset-6210df.s3.amazonaws.com/78858516/253768335-7265d803-23d8-4598-a616-f12cef109642.mp4)
+Or check the link down below 👇👇👇- <br>
+[Redeem Subscription Video](https://github.com/TheGuyDangerous/GCAF2-ENROL-LIST/blob/main/images/sub.mp4)
 
 
 ## Official Website and Syllabus for the Program
