@@ -1,7 +1,7 @@
 # <p align=center>✨ Google Cloud Arcade Facilitator Program ✨</p>
-
 <p align="center">
-  <img src="https://github.com/TheGuyDangerous/GCAF2-ENROL-LIST/assets/78858516/1b0858b5-1c3b-4c7c-a6ab-ec9f74691e81?raw=true" alt="Google Cloud Arcade Facilitator Program">
+
+  <img src="https://github.com/TheGuyDangerous/GCAF2-ENROL-LIST/assets/78858516/0363f85b-82f3-4c84-ba87-3c8ffa0e55b8?raw=true" alt="Google Cloud Arcade Facilitator Program">
 </p>
 
 
@@ -9,13 +9,19 @@
 
 ## Table of Contents
 - [Benefits](#benefits-of-the-program)
-- [Why to Enroll in the Program ?](#why-to-enrol)
+- [Why to Enroll in the Program ?](#why-to-enroll)
 - [How to Enroll](#enrollment)
 - [Check Your Registration](#check-your-registration)
 - [Redeem Your 2 Month Subscription](#redeem-your-subscription)
+- [Syllabus and Official Website](#official-website-and-syllabus-for-the-program)
+- [What are Level 1 and 2 Games ?](#level-1-and-2-badges)
+- [What is a Monthly Trivia ?](#arcade-trivia-quest)
+- [What are Cloud Skill Badges ?](#google-cloud-skill-badges)
 - [Skill Badges Syllabus](#skill-badges-syllabus)
-- [Getting started](#official-website-and-syllabus-for-the-program)
-- [Instructions](#instructions)
+- [Where to Start ?](#instructions)
+- [Goodies and Swags](#milestones-and-prizes)
+- [How are the Points Counted ?](#points-system)
+- [General FAQs](#faqs)
 - [Connect](#connect-with-us)
 
 
@@ -31,7 +37,7 @@ You can:
 - Earn badges and certificates for completing lessons
 - Access free and high-quality resources from Google
 
-## Why to Enrol
+## Why to Enroll
 
 There are a lot of things in store for you. We want to make sure that by the end of this program: <br>
 
@@ -122,7 +128,7 @@ Or, I have created a specially designed pdf for you, that contains the list of t
     - [Level 1 July Solution Playlist](https://youtube.com/playlist?list=PL5aOhqv5LVIq0oQeemB4gYxxFNcZtfU4T)
     - [Level 2 July Solution Playlist](https://youtube.com/playlist?list=PL5aOhqv5LVIq0oQeemB4gYxxFNcZtfU4T)
  
-## Milestones & Prizes
+## Milestones and Prizes
 
 <img src = "https://github.com/TheGuyDangerous/GCAF2-ENROL-LIST/blob/main/images/5.jpg?raw=true"  align = "center"> </img>
 
